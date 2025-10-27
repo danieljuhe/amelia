@@ -35,9 +35,9 @@ ENV/
 
 # OS
 .DS_Store
- deberes.db
+Thumbs.db
 
-# Environment variables
+# Environment variables crab
 .env
 .env.local
 
