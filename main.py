@@ -8,6 +8,6 @@ async def amelia_status():
     return {"status": "running server"}
 
 
-@app熄("/")
+@app.get("/")
 async def root():
     return {"message": "Welcome to Amelia API"}
